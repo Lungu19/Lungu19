@@ -2,7 +2,7 @@
 
 I'm Lungu
 
-- 🌱 I’m currently learning C++, Python and Javascript
+- 🌱 Currently learning: Dart (Flutter)
 - 📫 How to reach me: Lungu#0001 on Discord
 
 <a href="https://twitter.com/Lu_ngu19"><img alt="Twitter" src="https://img.shields.io/badge/Lu_ngu19-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
